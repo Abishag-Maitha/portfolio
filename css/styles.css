@@ -11,7 +11,7 @@ body{
     margin: 0;
 }
 .main-heading{
-    text-align: center;
+    text-align: left;
     font-family: 'Dancing Script', cursive;
     font-size: 50px;
     position: relative;
@@ -40,6 +40,6 @@ ul{
 }
 img {
     float: left;
-    margin-top: 10%;
-    margin-left: 10%;
+    margin-top: 0%;
+    margin-left: 5%;
   }
