@@ -1,14 +1,14 @@
 body{
 
     margin: 0;
-    overflow: hidden;
+    overflow: scroll;
     background-color: aquamarine;
 }
 .main-content {
     width: 100%;
     position: absolute;
     display: block;
-    margin-left: -50px;
+    margin-left: 50px;
 }
 .main-heading{
     text-align: left;
