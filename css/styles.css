@@ -23,7 +23,8 @@ body{
     justify-content: center;
     margin-top: 0;
     color: red;
-    font-size: 20px;  
+    background-color:burlywood;
+    font-size: 30px;  
     position: relative;
 }
 a:hover{
