@@ -1,7 +1,7 @@
 body{
 
     margin: 0;
-    overflow: hidden;
+    overflow: scroll;
     background-color: aquamarine;
 }
 .main-content {
@@ -44,3 +44,15 @@ img {
     margin-top: 0%;
     margin-left: 5%;
   }
+  .index-box>p{
+    margin: 30px;
+    font-weight: 300;
+    font-size: 18px;
+    font-family: 'Poppins',sans-serif;
+  }
+
+.index-box>h4{
+  margin: 25px;
+  font-weight: 300;
+  font-size: 25px;
+}
