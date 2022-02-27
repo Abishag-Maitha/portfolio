@@ -55,4 +55,11 @@ img {
   margin: 25px;
   font-weight: 300;
   font-size: 25px;
+  font-family: 'Poppins',sans-serif;
 }
+.index-box>ol{
+    font-family: 'Poppins',sans-serif;
+    margin: 30px;
+    font-weight: 300;
+    font-size: 18px;
+  }
